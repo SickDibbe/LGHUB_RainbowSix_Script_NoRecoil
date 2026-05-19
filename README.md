@@ -51,7 +51,7 @@ Puoi regolare lo script modificando unicamente le prime 5 variabili nella sezion
 ## 💻 Installazione su LGHUB
 1. Apri **Logitech G HUB**.
 2. Seleziona il tuo profilo di **Rainbow Six Siege**.
-3. Clicca su **Script** (affianco la scritta "DETTAGLI").
+3. Clicca su **Script** (affianco la scritta **DETTAGLI**).
 4. Clicca sulla voce **NESSUNO**.
 5. Clicca su **Script**, poi **Importa** e seleziona il file scaricato.
 6. Infine clicca nuovamente su **Script** e poi **Salva ed esegui**.
