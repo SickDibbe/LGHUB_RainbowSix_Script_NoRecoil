@@ -32,7 +32,7 @@ Questo script è progettato per aiutare a gestire il rinculo delle armi mantenen
 * **Controllo First Shot Kick:** Compensa in automatico l'impennata violenta dei primissimi colpi.
 * **Nuovo Rinculo Orizzontale (v4.0):** Gestione dinamica dell'asse X (Destra/Sinistra) per le armi che deviano lateralmente.
 * **Sistema Anti-Cheat Umanizzato (Jitter):** Micro-variazioni casuali di pixel e delay sui millisecondi per simulare il tremolio naturale della mano umana.
-* **Interruttore di Sicurezza:** Lo script si attiva solo se il **Caps Lock (Bloc Maiusc)** è attivo sulla tastiera.
+* **Interruttore di Sicurezza:** Lo script si attiva solo se il **Caps Lock (Bloc Maiusc)** è attivo sulla tastiera. Ho aggiunto di recente anche una variante con il **Num Lock (BlocNum)**.
 
 ---
 
